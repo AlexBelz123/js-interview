@@ -12,8 +12,8 @@ const user = {
 // user.info();
 
 // answer
-// it points one level up (in out case global scope), so we need
-// change arrow function to regulat one
+// it points one level up (in our case global scope), so we need
+// change arrow function to regular one
 // info() {...}
 // https://dmitripavlutin.com/differences-between-arrow-and-regular-functions/
 
